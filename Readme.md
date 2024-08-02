@@ -8,7 +8,7 @@ My toolbox includes tools like Git, GitHub, VS Code, Figma, and Miro.
 
 My approach towards designing great software is creativity, accessibility, and scalability, and rapid-iteration based on feedback.
 
-I am currently learning React, Tailwind CSS, and TypeScript.
+I am currently learning React.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamagarwal03/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=web&logoColor=white)](https://www.shivamagarwal.au) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%230077B5.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/undrthegraveyard) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivam_agarwaal)
